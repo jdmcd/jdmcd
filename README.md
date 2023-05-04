@@ -3,4 +3,4 @@ My name is Jimmy and I'm the CTO of [Transeo](https://gotranseo.com). We believe
 
 In addition, I'm passionate about Server Side Swift and serve as a maintainer of [Vapor](https://vapor.codes) where I wrote the [Queues](https://github.com/vapor/queues) package and help manage the documentation. As part of my work at Transeo I also help publish [various open source projects for the EdTech community.](https://github.com/gotranseo)
 
-In my free time you can most likely find me playing with my dogs 🐕 or [blogging about education, Swift, and mental health](https://jdmcd.io). Reach out if you want to chat: [jimmy@jdmcd.io](mailto:jimmy@jdmcd.io).
+In my free time you can most likely find me playing with my dog 🐕. Reach out if you want to chat: [jimmy@jdmcd.io](mailto:jimmy@jdmcd.io).
